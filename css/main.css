@@ -4029,4 +4029,11 @@
 						padding: 0;
 					}
 
+		/* Portfolio */
+		.myportfolio{
+			padding: 50px;
+			margin: 20px;
+			
+		}
+
 	}
